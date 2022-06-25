@@ -15,7 +15,7 @@
     "@types/node-fetch": "^2.5.7",
     "cheerio": "^1.0.0-rc.3",
     "encoding": "^0.1.12",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "ts-node": "^8.10.1",
     "typescript": "^3.9.2"
   }
